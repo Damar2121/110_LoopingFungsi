@@ -114,3 +114,4 @@ int main()
 	BinaryTree x;
 	while (true)
 	{
+		cout << "1. Implement insert operation" << endl;
